@@ -21,7 +21,7 @@ It contains various water quality parameters and a target variable indicating po
 2. Data Preprocessing (handling missing values)  
 3. Exploratory Data Analysis (EDA)  
 4. Data Visualization  
-5. (Optional) Model Development using Random Forest  
+5. Model Development using Random Forest  
 
 ---
 
